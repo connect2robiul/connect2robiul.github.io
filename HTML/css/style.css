@@ -13,7 +13,10 @@
 body{
 	font-family:'Oswald', Arial;
 	color:#fff;
-	background:url(../images/bg.jpg) top center no-repeat #000;
+	background:url(../images/bg.jpg);
+	background-repeat:no-repeat;
+
+   background-size:cover;
 }
 
 .overlay{
