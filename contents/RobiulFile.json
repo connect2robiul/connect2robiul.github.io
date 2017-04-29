@@ -4,11 +4,23 @@
     {
 
     "type": "job",
-      "date": "1 April 2017",
+      "date": "April 1, 2017",
       "description": {
         "what": "Joined full time at",
         "emphasis": "Intelligent Design & Dynamic Ltd",
         "info": "Joined as a software engineer."
+      }
+    },
+
+    {
+
+    "type": "fun",
+      "date": "April 29, 2016 ",
+      "description": {
+        "what": "Publlished a short paper",
+        "emphasis": "Titled: Alphabet Recognition in Air Writing Using Depth Information ",
+      
+        "info": "Download Link <a href='https://www.thinkmind.org/download.php?articleid=achi_2016_14_40_20345'>Alphabet Recognition in Air Writing Using Depth Information</a>."
       }
     },
 
@@ -20,6 +32,53 @@
         "what": "Joined full time at",
         "emphasis": "Khwaja Yunus Ali University , Sirajganj ",
         "info": "Joined as a Lecturer of Computer Science and Engineering Department ."
+      }
+    },
+    {
+      "type": "fun",
+      "date": "January 12, 2016",
+      "description": {
+        "what": "Started Volunteering at",
+        "emphasis": "IEEE Young Professionals Bangladesh",
+        "info": "as Educational Activity Coordinator " 
+      }
+    },
+    {
+      "type": "event",
+      "date": "January 1, 2014",
+      "description": {
+        "what": "Started University at Islamic University of Technology",
+        "emphasis": "M.Sc in Computer Science and Engineering",
+        "info": "Moved to Gazipur. Staying in university dormitory " 
+      }
+    },
+    {
+      "type": "fun",
+      "date": "July 15~21 2013",
+      "description": {
+        "what": "Exploring",
+        "emphasis": "Amazing India",
+        "info": "Visited Hyderabad, Agra and New Delhi " 
+      }
+    },
+
+    {
+      "type": "fun",
+      "date": "July 11~14 2013",
+      "description": {
+        "what": "Attending ",
+        "emphasis": "IEEE Region 10 Student/GOLD/WIE Congress 2013",
+        "info": "It was 1st time to go outside my country. In this events, I have chance to meet some awesome people. " 
+      }
+    },
+
+    {
+      "type": "fun",
+      "date": "January 1, 2012 ",
+      "description": {
+        "what": "Started Volunteering at ",
+        "emphasis": "Institute of Electrical and Electronics Engineers (IEEE)",
+        "info": "Connected to Engineer's Platfrom" 
       }
     },
 
