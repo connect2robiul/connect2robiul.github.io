@@ -1,14 +1,35 @@
 {
 
   "data": [
+    {
+
+    "type": "job",
+      "date": "1 April 2017",
+      "description": {
+        "what": "Joined full time at",
+        "emphasis": "Intelligent Design & Dynamic Ltd",
+        "info": "Joined as a software engineer."
+      }
+    },
+
+    {
+
+    "type": "job",
+      "date": "January 4, 2016 ",
+      "description": {
+        "what": "Joined full time at",
+        "emphasis": "Khwaja Yunus Ali University , Sirajganj ",
+        "info": "Joined as a Lecturer of Computer Science and Engineering Department ."
+      }
+    },
 
     {
       "type": "event",
       "date": "May 1, 2009",
       "description": {
-        "what": "Started School at East West University",
+        "what": "Started University at East West University",
         "emphasis": "B.Sc in Computer Science and Engineering",
-        "info": "I'm honored to be chosen as one of the 2017 <a href='http://www.isualum.org/pride/awards/statement-makers/2017-iowa-statement-makers/'>Iowa STATEment Makers</a>!"
+        "info": "A new life in Dhaka has started" 
       }
     }
   ]
