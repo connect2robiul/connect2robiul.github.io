@@ -28,7 +28,7 @@ function buildHeader() {
 
 // pull highlights content
 function pullHighlights() {
-  return fetch('contents/highlights.json', buildHeader()).then(function(response) {
+  return fetch('contents/RobiulFile.json', buildHeader()).then(function(response) {
     return response.json();
   });
 }
