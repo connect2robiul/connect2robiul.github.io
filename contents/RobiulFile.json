@@ -2,6 +2,15 @@
 
   "data": [
     {
+      "type": "fun",
+      "date": "December 13, 2017",
+      "description": {
+        "what": "Lanch",
+        "emphasis": "jackfruitlab",
+        "info": "Owner" 
+      }
+    },
+    {
 
     "type": "job",
       "date": "April 1, 2017",
