@@ -1,6 +1,18 @@
 {
 
   "data": [
+    
+     {
+      "type": "fun",
+      "date": "January 29, 2018 ",
+      "description": {
+        "what": "ExCom Member at ",
+        "emphasis": "Institute of Electrical and Electronics Engineers (IEEE) Computer Society Bangladesh Chapter",
+        "info": "In the history of IEEE BDS, the first time this election is held using most secure IEEE Vtool Vote." 
+      }
+    },
+
+    
     {
       "type": "fun",
       "date": "December 13, 2017",
