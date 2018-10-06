@@ -2,6 +2,15 @@
 
   "data": [
     
+    {
+      "type": "event",
+      "date": "September 1, 2018",
+      "description": {
+        "what": "Started University at National Research University Higher School of Economics",
+        "emphasis": "Master’s Programme in System and Software Engineering",
+        "info": "A new life in Russia has started" 
+      }
+    
      {
       "type": "fun",
       "date": "January 29, 2018 ",
