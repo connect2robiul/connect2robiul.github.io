@@ -1,6 +1,15 @@
 {
 
   "data": [
+    {
+      "type": "fun",
+      "date": "10 April, 2019 ",
+      "description": {
+        "what": "Finalist of  ",
+        "emphasis": "The Ilya Segalovich Yandex Scientific Award",
+        "info": "More Info <a href='https://yandex.com/scholarships/press'>Ilya Segalovich Yandex Scientific Award</a>." 
+      }
+    },
     
     {
       "type": "event",
