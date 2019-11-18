@@ -1,6 +1,20 @@
 {
 
   "data": [
+    
+     {
+
+    "type": "fun",
+      "date/Place": "Perm, Russia, September 26, 2019.",
+      "description": {
+        "what": "Publlished a paper",
+        "emphasis": "Titled: Searching for Interpretable Demographic Patterns ",
+      
+        "info": "Download Link <a href='http://ceur-ws.org/Vol-2479/paper2.pdf'>Searching for Interpretable Demographic Patterns</a>."
+      }
+    },
+
+    
     {
       "type": "fun",
       "date": "April 10, 2019 ",
