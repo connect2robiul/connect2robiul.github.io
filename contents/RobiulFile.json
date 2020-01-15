@@ -2,6 +2,18 @@
 
   "data": [
     
+    
+    {
+
+    "type": "job",
+      "date": "October, 2019",
+      "description": {
+        "what": "Joined at HSE Lab",
+        "emphasis": "Laboratory for Models and Methods of Computational Pragmatics",
+        "info": "Joined as a Research Assistance."
+      }
+    },
+    
      {
 
     "type": "fun",
