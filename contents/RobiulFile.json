@@ -4,6 +4,17 @@
     
     
     {
+      "type": "event",
+      "date": "September 17, 2020",
+      "description": {
+        "what": "Started University at Innopolis University",
+        "emphasis": "Ph.D ",
+        "info": "-" 
+      }
+    },
+    
+    
+    {
 
     "type": "job",
       "date": "October, 2019",
